@@ -10,6 +10,8 @@
 
 #### `npm run dev`
 
+#### `npm run build`
+
 ---
 
 ### Did my video or project help you?
