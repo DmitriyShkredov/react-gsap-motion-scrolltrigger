@@ -2,6 +2,10 @@
 
 #### `Demo:` https://dmitriyshkredov.github.io/react-gsap-motion-scrolltrigger/
 
+#### `Youtube:` [React + GSAP | MotionPathPlugin + ScrollTrigger](https://youtu.be/hIAhjhO8bso)
+
+#### `VK Video:` [React + GSAP | MotionPathPlugin + ScrollTrigger](https://vk.com/video/@tipichnyjvebrazrabotchik?z=video-222570561_456239046%2Fclub222570561%2Fpl_-222570561_-2)
+
 ---
 
 #### `git clone https://github.com/DmitriyShkredov/react-gsap-motion-scrolltrigger.git`
@@ -9,8 +13,6 @@
 #### `npm install`
 
 #### `npm run dev`
-
-#### `npm run build`
 
 ---
 
